@@ -1,0 +1,21 @@
+Project: Network Scanning & Enumeration using Nmap
+
+Target Machine: Metasploitable 2
+Attacker Machine: Kali Linux
+
+Tools Used:
+- Nmap
+- VirtualBox
+
+Scans Performed:
+- Basic scan
+- Service version scan
+- OS detection
+
+Result:
+Multiple open ports and services were identified,
+indicating security misconfigurations.
+
+Conclusion:
+Nmap is an effective tool for network enumeration
+and identifying potential security risks.
